@@ -1,0 +1,134 @@
+﻿// OSC Wiimote
+// For use with SkatStudio
+
+
+// Lights so you know you're connected
+Wiimote1.Led1 = true
+Wiimote1.Led4 = true
+var.Oscport = 8000
+
+
+SendOsc("localhost", var.Oscport, "/wii/1/accel/xyz", (Wiimote1.RawAccX+45)/90, (Wiimote1.RawAccY+45)/90, (Wiimote1.RawAccZ+45)/90)
+SendOsc("localhost",var.Oscport,"/wii/1/accel/pry", (Wiimote1.SmoothPitch + 90) / 180, (Wiimote1.SmoothRoll + 180)/360, (Wiimote1.Yaw + 90) / 180)
+//SendOsc("localhost", var.Oscport, "/wii/1/battery", Wiimote1.Battery)
+
+if(Wiimote1.One==true && var.one=0)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/1", int(1))
+      var.one=1
+endif
+
+if(Wiimote1.One==false && var.one=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/1", int(0))
+      var.one=0
+endif
+
+if(Wiimote1.Two==true && var.two=0)
+      var.two=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/2", int(1))
+
+endif
+
+if(Wiimote1.Two==false && var.two=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/2", int(0))
+      var.two=0
+      wait 100 ms
+endif
+
+if(Wiimote1.A==true && var.a=0)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/A", int(1))
+      var.a=1
+endif
+
+if(Wiimote1.A==false && var.a=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/A", int(0))
+      var.a=0
+endif
+
+if(Wiimote1.B==true && var.b=0)
+      var.b=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/B", int(1))
+
+endif
+
+if(Wiimote1.B==false && var.b=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/B", int(0))
+      var.b=0
+endif
+
+if(Wiimote1.Home==true && var.home=0)
+      var.home=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Home", int(1))
+
+endif
+
+if(Wiimote1.Home==false && var.home=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Home", int(0))
+      var.home=0
+endif
+
+if(Wiimote1.Plus==true && var.plus=0)
+      var.plus=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Plus", int(1))
+
+endif
+
+if(Wiimote1.Plus==false && var.plus=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Plus", int(0))
+      var.plus=0
+endif
+
+if(Wiimote1.Minus==true && var.minus=0)
+      var.minus=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Minus", int(1))
+
+endif
+
+if(Wiimote1.Minus==false && var.minus=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Minus", int(0))
+      var.minus=0
+endif
+
+if(Wiimote1.up==true && var.up=0)
+      var.up=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Up", int(1))
+
+endif
+
+if(Wiimote1.up==false && var.up=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Up", int(0))
+      var.up=0
+endif
+
+if(Wiimote1.left==true && var.left=0)
+      var.left=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Left", int(1))
+
+endif
+
+if(Wiimote1.left==false && var.left=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Left", int(0))
+      var.left=0
+endif
+
+if(Wiimote1.down==true && var.down=0)
+      var.down=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Down", int(1))
+
+endif
+
+if(Wiimote1.down==false && var.down=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Down", int(0))
+      var.down=0
+endif
+
+if(Wiimote1.right==true && var.right=0)
+      var.right=1
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Right", int(1))
+
+endif
+
+if(Wiimote1.right==false && var.right=1)
+      SendOsc("localhost", var.Oscport, "/wii/1/button/Right", int(0))
+      var.right=0
+endif
+
