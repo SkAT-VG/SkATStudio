@@ -296,7 +296,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-31",
-					"items" : "sortieaudio_acompleter.maxpat",
+					"items" : "audiooutputmodule.maxpat",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,

@@ -1,0 +1,125 @@
+Skat_svn		
+	   deposemodule.maxpat	
+	   Documentation_utilisateur Skat0.3.docx	
+	   filelist.txt	
+	   interface_v0.3.maxpat	
+	   loadconfig.txt	
+	   makeconnections.maxpat	
+	   multimodulesarg.maxpat	
+	   OSCreceive.maxpat	
+	   patchabayarrow.png	
+	   patchbay.maxpat	
+	   playsoundmodule.maxpat	
+	   provaskat3.png	
+	   readme skatv0.3.txt	
+	   Template_moduleSKAT0.3.maxpat	
+	   	
+AnalysisSKATv0.3		
+	   	   AccelerationShaking.maxpat
+	   	   AttackDecay.maxpat
+	   	   Formant.maxpat
+	   	   gyro_acc_controlosc.maxpat
+	   	   Multitouch_controlosc.maxpat
+	   	   Partials.maxpat
+	   	   Pitch.maxpat
+	   	   SpecPeakExtraction.maxpat
+	   	   VAD.maxpat
+	   	   
+	Partials_objets	
+	SpecPeakExtraction_objets	
+	           frame~ demo patch.pat	
+	           frame~.mxe	
+	           windowed-fftSKAT~.maxpat	
+	           	
+externals		
+	   	   frame~ demo patch.pat
+	   	   frame~.mxe
+	   	   FTM.2.5.0.BETA.23.exe
+	   	   gizmo~.mxe
+	   	   hilbert~.mxe
+	   	   plot~.mxe
+	   	   rampsmooth~.mxe
+	   	   vectral~.mxe
+	   	   
+	CNMAT_Externals	
+		
+	WinPitch~	
+	       	   .DS_Store
+	       	   fftw-3.0.1-w32.zip
+	       	   pitch~.help
+	       	   pitch~.mxe
+	       	   README Windows
+	       	   
+	fftw-3.0.1-w32	
+	               fftw3.dll	
+	               	
+fichiers_sauvegardes		
+	       mapplearningcoloration.txt	
+	       saveGenecarscoloration.json	
+	       saveGenecarsconfig.json	
+	       saveGenecarsconfig2.json	
+	       saveGenecarsEQ.json	
+	       saveImpactconfig.json	
+	       saveImpactGenecarsconfig.json	
+	       saveShakerBell.json	
+	       saveShakerBell2.json	
+	       saveShakerBell3.json	
+	       saveShakerBell4.json	
+	       	
+MappingSkatv0.3		
+	       mappinglearning.maxpat	
+	       MappingSkatv0.3.maxpat	
+	       	
+SynthesisSkatv0.3		
+    	   bell.maxpat	
+    	   eqband.maxpat	
+    	   genecarcustomfilter.json	
+    	   genecarfilter.json	
+    	   GenePartiel.maxpat	
+    	   modalimpact.maxpat	
+    	   ParametricEQ.maxpat	
+    	   PitchSft_TimeSt.maxpat	
+    	   pvoc_polar_sub.maxpat	
+    	   shakervst.maxpat	
+    	   	
+genepartiel_objets		
+    	       frequencyToOrder.maxpat	
+    	       genePartiels~.mxe	
+    	       genesislogo.PNG	
+    	       geneStripPath.mxe	
+    	       genList.maxpat	
+    	       Laguna_diesel_PB.motor	
+    	       MazdaPartials.partials	
+    	       mdaStereo.dll	
+    	       rpmwidget.png	
+    	       xerces-c_2_6.dll	
+    	       	
+vsti		
+        	   shaker_maker.zip	
+        	   syntheway_percussion_kit_demo.zip	
+        	   	
+shaker_maker		
+        	shaker maker	
+        	       	   Shaker Maker info.txt
+        	       	   
+        	musicrow_shaker_maker	
+        	           	   Shaker Maker.dll
+        	           	   Shaker_Maker_Manual.pdf
+        	           	   
+        	Shaker Maker	
+        	                   DH_ALLPASS.SEM	
+        	                   STATIC.SEP	
+        	                   	
+syntheway_percussion_kit_demo		
+            	   Syntheway Percussion Kit demo.rar	
+            	   Syntheway.Percussion.Kit.Info.CHM	
+            	   Syntheway.Percussion.Kit.Info.pdf	
+            	   Syntheway.Percussion.Kit.License.pdf	
+            	   	
+Syntheway Percussion Kit demo		
+                	   Syntheway Percussion Kit demo.dll	
+                	   	
+Syntheway Percussion Kit demo		
+                        SYNTHEWAY_PERCUSSION_KIT.CHM		
+                        UD-REVERB.SEP		
+                        		
