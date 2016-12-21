@@ -1,0 +1,19 @@
+{
+	"pattrstorage" : 	{
+		"name" : "InputsstoragePC",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"InputsInputNumber" : [ 0 ],
+					"InputsOutputNumber" : [ 1 ],
+					"InputsModuleNumber" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

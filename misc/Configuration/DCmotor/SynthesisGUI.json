@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "SynthesisstorageGUI",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Synthesispatchbay::Synthesispatchbaystorage" : [ 1 ],
+					"Facade::PC::SynthesisstoragePC" : [ 1 ],
+					"pattrmodul1" : [ "Synthesis_DCmotor.maxpat" ],
+					"modul1::savePatch" : [ -1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

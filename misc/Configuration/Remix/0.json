@@ -1,0 +1,21 @@
+{
+	"pattrstorage" : 	{
+		"name" : "savePatch",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.text" : [ 0.0 ],
+					"number" : [ 8000 ],
+					"textedit" : [ "/multi/3", 0.975558, 0.244512 ],
+					"textedit[1]" : [ "/multi/3", "/multi/1", "/multi/5", "/multi/2", "/multi/4" ],
+					"toggle" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

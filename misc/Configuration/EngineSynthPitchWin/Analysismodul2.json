@@ -1,0 +1,23 @@
+{
+	"pattrstorage" : 	{
+		"name" : "savePatch",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"flonum" : [ 2048.0 ],
+					"flonum[1]" : [ 0.0 ],
+					"flonum[2]" : [ 903168.0 ],
+					"flonum[3]" : [ 8.175799 ],
+					"flonum[4]" : [ 0.0 ],
+					"live.text" : [ 0.0 ],
+					"multislider" : [ 45.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

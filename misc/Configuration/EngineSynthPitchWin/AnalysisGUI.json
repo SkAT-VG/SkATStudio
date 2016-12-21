@@ -1,0 +1,22 @@
+{
+	"pattrstorage" : 	{
+		"name" : "AnalysisstorageGUI",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Analysispatchbay::Analysispatchbaystorage" : [ 1 ],
+					"Facade::PC::AnalysisstoragePC" : [ 1 ],
+					"pattrmodul1" : [ "VAD.maxpat" ],
+					"pattrmodul2" : [ "Pitch_win.maxpat" ],
+					"modul1::savePatch" : [ 1 ],
+					"modul2::savePatch" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "InputsstorageGUI",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Inputspatchbay::Inputspatchbaystorage" : [ 1 ],
+					"Facade::PC::InputsstoragePC" : [ 1 ],
+					"pattrmodul1" : [ "microphone.maxpat" ],
+					"modul1::savePatch" : [ -1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

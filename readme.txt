@@ -1,6 +1,10 @@
-SkAT Studio v0.6 for Windows 32 bits
+skat v0.7 for Windows 32 bits
 
-1) Download and install Max 6.0.8 from the official Cycling '74 website (http://www.cycling74.com)
-2) Run libraries/FTM.2.5.0.BETA.23.exe and install the FTM&co library in your Max 6 folder
-3) Add the support folder to your windows PATH environment variable
-4) Add the SkAT Studio folder to the Max search paths, under Options->File Preferences
+
+Install Max/MSP 6
+Install FTM.2.5.0.BETA.23 (folder externals) in the Max 6 folder
+add fftw3.dll (skat\externals\WinPitch~\fftw-3.0.1-w32) to your windows path
+add the skat folder to your max path
+
+
+WARNING !!! Max/MSP may crash if Quicktime is not installed on your computer. Check it !

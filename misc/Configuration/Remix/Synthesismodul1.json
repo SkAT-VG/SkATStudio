@@ -1,0 +1,59 @@
+{
+	"pattrstorage" : 	{
+		"name" : "savePatch",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"RemixVol" : [ 0.0 ],
+					"flonum" : [ 0.0 ],
+					"flonum[1]" : [ 0.0 ],
+					"flonum[2]" : [ 0.0 ],
+					"flonum[3]" : [ 0.0 ],
+					"flonum[4]" : [ 1.0 ],
+					"flonum[5]" : [ 0.0 ],
+					"flonum[6]" : [ 0.0 ],
+					"flonum[7]" : [ 0.0 ],
+					"flonum[8]" : [ 0.0 ],
+					"live.menu" : [ 0.0 ],
+					"live.menu[1]" : [ 1.0 ],
+					"live.menu[2]" : [ 2.0 ],
+					"live.menu[3]" : [ 5.0 ],
+					"live.numbox" : [ 0.0 ],
+					"live.numbox[1]" : [ 0.0 ],
+					"live.numbox[2]" : [ 0.0 ],
+					"live.numbox[3]" : [ 0.0 ],
+					"live.slider" : [ 0.0 ],
+					"live.slider[1]" : [ 0.0 ],
+					"live.slider[2]" : [ 0.0 ],
+					"live.slider[3]" : [ 0.0 ],
+					"live.text" : [ 0.0 ],
+					"live.text[10]" : [ 0.0 ],
+					"live.text[11]" : [ 0.0 ],
+					"live.text[12]" : [ 0.0 ],
+					"live.text[13]" : [ 0.0 ],
+					"live.text[14]" : [ 0.0 ],
+					"live.text[15]" : [ 0.0 ],
+					"live.text[1]" : [ 0.0 ],
+					"live.text[2]" : [ 0.0 ],
+					"live.text[3]" : [ 0.0 ],
+					"live.text[4]" : [ 0.0 ],
+					"live.text[5]" : [ 0.0 ],
+					"live.text[6]" : [ 0.0 ],
+					"live.text[7]" : [ 0.0 ],
+					"live.text[8]" : [ 0.0 ],
+					"live.text[9]" : [ 0.0 ],
+					"textedit" : [ "<empty>" ],
+					"textedit[1]" : [ "<empty>" ],
+					"textedit[2]" : [ "<empty>" ],
+					"textedit[3]" : [ "<empty>" ],
+					"umenu" : [ 3 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

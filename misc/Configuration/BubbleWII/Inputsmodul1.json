@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "savePatch",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.text" : [ 0.0 ],
+					"OSCreceive::savePatch" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

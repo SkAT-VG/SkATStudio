@@ -1,0 +1,38 @@
+{
+	"pattrstorage" : 	{
+		"name" : "savePatch",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"flonum" : [ 3.959283 ],
+					"flonum[1]" : [ 1.574803 ],
+					"flonum[2]" : [ 0.0 ],
+					"flonum[3]" : [ 2.177482 ],
+					"flonum[4]" : [ 1.140157 ],
+					"flonum[5]" : [ 0.622047 ],
+					"flonum[6]" : [ 0.440945 ],
+					"flonum[7]" : [ 0.669291 ],
+					"flonum[8]" : [ 0.0 ],
+					"flonum[9]" : [ 0.0 ],
+					"live.gain~" : [ 0.0 ],
+					"live.text" : [ 0.0 ],
+					"live.text[1]" : [ 0.0 ],
+					"number" : [ 0 ],
+					"slider" : [ 39 ],
+					"slider[1]" : [ 73 ],
+					"slider[2]" : [ 114 ],
+					"slider[3]" : [ 21 ],
+					"slider[4]" : [ 89 ],
+					"slider[5]" : [ 79 ],
+					"slider[6]" : [ 56 ],
+					"slider[7]" : [ 85 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,36 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Synthesispatchbaystorage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"pattrtoggle10_2" : [ 1 ],
+					"pattrtoggle9_2" : [ 0 ],
+					"pattrtoggle8_2" : [ 0 ],
+					"pattrtoggle7_2" : [ 0 ],
+					"pattrtoggle6_2" : [ 0 ],
+					"pattrtoggle5_2" : [ 0 ],
+					"pattrtoggle4_2" : [ 0 ],
+					"pattrtoggle3_2" : [ 0 ],
+					"pattrtoggle2_2" : [ 0 ],
+					"pattrtoggle1_2" : [ 0 ],
+					"pattrtoggle10_1" : [ 0 ],
+					"pattrtoggle9_1" : [ 0 ],
+					"pattrtoggle8_1" : [ 0 ],
+					"pattrtoggle7_1" : [ 0 ],
+					"pattrtoggle6_1" : [ 0 ],
+					"pattrtoggle5_1" : [ 0 ],
+					"pattrtoggle4_1" : [ 0 ],
+					"pattrtoggle3_1" : [ 0 ],
+					"pattrtoggle2_1" : [ 1 ],
+					"pattrtoggle1_1" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

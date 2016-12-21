@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Outputspatchbaystorage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"pattrtoggle2_1" : [ 1 ],
+					"pattrtoggle1_1" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

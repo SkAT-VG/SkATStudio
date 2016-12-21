@@ -1,0 +1,52 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Mappingpatchbaystorage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"pattrtoggle6_6" : [ 1 ],
+					"pattrtoggle5_6" : [ 0 ],
+					"pattrtoggle4_6" : [ 0 ],
+					"pattrtoggle3_6" : [ 0 ],
+					"pattrtoggle2_6" : [ 0 ],
+					"pattrtoggle1_6" : [ 0 ],
+					"pattrtoggle6_5" : [ 0 ],
+					"pattrtoggle5_5" : [ 1 ],
+					"pattrtoggle4_5" : [ 0 ],
+					"pattrtoggle3_5" : [ 0 ],
+					"pattrtoggle2_5" : [ 0 ],
+					"pattrtoggle1_5" : [ 0 ],
+					"pattrtoggle6_4" : [ 0 ],
+					"pattrtoggle5_4" : [ 0 ],
+					"pattrtoggle4_4" : [ 1 ],
+					"pattrtoggle3_4" : [ 0 ],
+					"pattrtoggle2_4" : [ 0 ],
+					"pattrtoggle1_4" : [ 0 ],
+					"pattrtoggle6_3" : [ 0 ],
+					"pattrtoggle5_3" : [ 0 ],
+					"pattrtoggle4_3" : [ 0 ],
+					"pattrtoggle3_3" : [ 1 ],
+					"pattrtoggle2_3" : [ 0 ],
+					"pattrtoggle1_3" : [ 0 ],
+					"pattrtoggle6_2" : [ 0 ],
+					"pattrtoggle5_2" : [ 0 ],
+					"pattrtoggle4_2" : [ 0 ],
+					"pattrtoggle3_2" : [ 0 ],
+					"pattrtoggle2_2" : [ 1 ],
+					"pattrtoggle1_2" : [ 0 ],
+					"pattrtoggle6_1" : [ 0 ],
+					"pattrtoggle5_1" : [ 0 ],
+					"pattrtoggle4_1" : [ 0 ],
+					"pattrtoggle3_1" : [ 0 ],
+					"pattrtoggle2_1" : [ 0 ],
+					"pattrtoggle1_1" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

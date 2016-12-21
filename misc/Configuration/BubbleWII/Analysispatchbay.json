@@ -1,0 +1,34 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Analysispatchbaystorage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"pattrtoggle2_9" : [ 0 ],
+					"pattrtoggle1_9" : [ 0 ],
+					"pattrtoggle2_8" : [ 0 ],
+					"pattrtoggle1_8" : [ 0 ],
+					"pattrtoggle2_7" : [ 0 ],
+					"pattrtoggle1_7" : [ 0 ],
+					"pattrtoggle2_6" : [ 0 ],
+					"pattrtoggle1_6" : [ 0 ],
+					"pattrtoggle2_5" : [ 0 ],
+					"pattrtoggle1_5" : [ 1 ],
+					"pattrtoggle2_4" : [ 0 ],
+					"pattrtoggle1_4" : [ 0 ],
+					"pattrtoggle2_3" : [ 0 ],
+					"pattrtoggle1_3" : [ 0 ],
+					"pattrtoggle2_2" : [ 0 ],
+					"pattrtoggle1_2" : [ 0 ],
+					"pattrtoggle2_1" : [ 1 ],
+					"pattrtoggle1_1" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

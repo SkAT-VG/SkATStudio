@@ -1,0 +1,19 @@
+{
+	"pattrstorage" : 	{
+		"name" : "MappingstoragePC",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"MappingInputNumber" : [ 1 ],
+					"MappingOutputNumber" : [ 6 ],
+					"MappingModuleNumber" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

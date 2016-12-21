@@ -1,0 +1,21 @@
+{
+	"pattrstorage" : 	{
+		"name" : "savePatch",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.text" : [ 0.0 ],
+					"number[12]" : [ 0.0 ],
+					"number[14]" : [ 0.0 ],
+					"number[3]" : [ 0.0 ],
+					"number[4]" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

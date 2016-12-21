@@ -1,0 +1,20 @@
+Plugin Name: Shaker Maker
+
+Developer Name: Musicrow
+
+Type: Special Effect
+
+Description: 
+Shaker Maker is a special effect that will turn any rhythmic content into a convincing natural shaker rhythm. Shaker Maker can produce a wide variety of shaker sounds, and you can shape your shaker to sound exactly the way you want it to. 
+For using Shaker Maker you should put it in the insert slot of your audio track. Then load a drum loop or any other rhythmic audio file to this track. You can also connect a microphone and use your own voice as the source for your shaker rhythm. Finally choose one of the 16 prepared shaker sounds, or shape your own shaker!
+
+Operating System: Windows 95 to XP/Vista
+
+Formats: VST
+
+System requirements: 
+•	Processor Pentium 4/AMD 1500 MHz or better 
+•	RAM 128 MB or more 
+•	Free disc space 3 MB of hard disk space 
+•	Operating System Windows 95 to Windows XP/Vista 
+•	Host Application Cubase SX/SL/4, Nuendo (1.5 or higher) or other VST 2.0 compatible host application. 

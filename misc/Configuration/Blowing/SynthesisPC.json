@@ -1,0 +1,19 @@
+{
+	"pattrstorage" : 	{
+		"name" : "SynthesisstoragePC",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"SynthesisInputNumber" : [ 6 ],
+					"SynthesisOutputNumber" : [ 1 ],
+					"SynthesisModuleNumber" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

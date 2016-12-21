@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "savePatch",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.text" : [ 0.0 ],
+					"multislider[6]" : [ 0.229885 ],
+					"multislider[7]" : [ 1.0 ],
+					"multislider[8]" : [ 0.632184 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,19 @@
+{
+	"pattrstorage" : 	{
+		"name" : "AnalysisstoragePC",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"AnalysisInputNumber" : [ 1 ],
+					"AnalysisOutputNumber" : [ 1 ],
+					"AnalysisModuleNumber" : [ 2 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

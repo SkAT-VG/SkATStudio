@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "MappingstorageGUI",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Mappingpatchbay::Mappingpatchbaystorage" : [ 1 ],
+					"Facade::PC::MappingstoragePC" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

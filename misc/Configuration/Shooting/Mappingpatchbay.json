@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Mappingpatchbaystorage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"pattrtoggle3_3" : [ 1 ],
+					"pattrtoggle2_3" : [ 0 ],
+					"pattrtoggle1_3" : [ 0 ],
+					"pattrtoggle3_2" : [ 0 ],
+					"pattrtoggle2_2" : [ 1 ],
+					"pattrtoggle1_2" : [ 0 ],
+					"pattrtoggle3_1" : [ 0 ],
+					"pattrtoggle2_1" : [ 0 ],
+					"pattrtoggle1_1" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

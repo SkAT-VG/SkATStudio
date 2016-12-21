@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "OutputsstorageGUI",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Outputspatchbay::Outputspatchbaystorage" : [ 1 ],
+					"Facade::PC::OutputsstoragePC" : [ 1 ],
+					"pattrmodul1" : [ "audiooutputmodule.maxpat" ],
+					"modul1::savePatch" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

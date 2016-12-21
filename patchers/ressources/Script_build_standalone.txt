@@ -1,0 +1,24 @@
+open thispatcherfolder F:/Projets/SkAT-VG/SkATStudio/Head/abstractions
+folder F:/Projets/SkAT-VG/SkATStudio/Head/inputmodules
+folder F:/Projets/SkAT-VG/SkATStudio/Head/outputmodules
+folder F:/Projets/SkAT-VG/SkATStudio/Head/AnalysisSkatStudio
+folder F:/Projets/SkAT-VG/SkATStudio/Head/AnalysisSkatStudio/Analysis_externals
+folder F:/Projets/SkAT-VG/SkATStudio/Head/AnalysisSkatStudio/Analysis_externals/SpecPeakExtraction_objets
+folder F:/Projets/SkAT-VG/SkATStudio/Head/MappingSkatStudio
+folder F:/Projets/SkAT-VG/SkATStudio/Head/MappingSkatStudio/externals
+folder F:/Projets/SkAT-VG/SkATStudio/Head/SynthesisSkatStudio
+folder F:/Projets/SkAT-VG/SkATStudio/Head/SynthesisSkatStudio/externals
+folder F:/Projets/SkAT-VG/SkATStudio/Head/SynthesisSkatStudio/externals/enginemodel_20140924
+folder F:/Projets/SkAT-VG/SkATStudio/Head/SynthesisSkatStudio/externals/genepartiel_objets
+folder F:/Projets/SkAT-VG/SkATStudio/Head/SynthesisSkatStudio/externals/IUAVEngine
+folder F:/Projets/SkAT-VG/SkATStudio/Head/SynthesisSkatStudio/externals/IUAVWater
+folder F:/Projets/SkAT-VG/SkATStudio/Head/SynthesisSkatStudio/externals/SkATSynthesizers
+
+
+folder "Macintosh HD:/Users/helene/Documents/SkAT_Studio/V1.0/patchers/abstractions"
+folder "Macintosh HD:/Users/helene/Documents/SkAT_Studio/V1.0/patchers/AnalysisSkatStudio"
+folder "Macintosh HD:/Users/helene/Documents/SkAT_Studio/V1.0/patchers/MappingSkatStudio"
+folder "Macintosh HD:/Users/helene/Documents/SkAT_Studio/V1.0/patchers/SynthesisSkatStudio"
+folder "Macintosh HD:/Users/helene/Documents/SkAT_Studio/V1.0/patchers/SynthesisSkatStudio/externals/SkATSynthesizers" 
+folder "Macintosh HD:/Users/helene/Documents/SkAT_Studio/V1.0/patchers/inputmodules"
+folder "Macintosh HD:/Users/helene/Documents/SkAT_Studio/V1.0/patchers/outputmodules"
